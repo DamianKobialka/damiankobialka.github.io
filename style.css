@@ -25,3 +25,10 @@ body
 	font-family:"Courier New";
 	font-size:18px;
 }
+
+#contact
+{
+	position:fixed;
+	bottom:25px;
+	left:25px;
+}
