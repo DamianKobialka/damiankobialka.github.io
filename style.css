@@ -28,7 +28,16 @@ body
 
 #contact
 {
+	display: inline-block;
 	position:fixed;
 	bottom:25px;
 	left:25px;
+}
+
+#ue_logo
+{
+	display: inline-block;
+	position:absolute;
+	right:10px;
+	bottom:10px;
 }
