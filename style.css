@@ -11,14 +11,22 @@ body
 	user-select: none;
 }
 
-#name
+#game_logo
 {
-	padding-top:200px;
+	padding-top:120px;
 	padding-bottom:20px;
 	font-family:"Arial Black";
 
 	font-size:35px;
 }
+
+#logo
+{
+	position:fixed;
+	bottom:25px;
+	right:45px;
+}
+
 
 #info
 {
@@ -30,14 +38,6 @@ body
 {
 	display: inline-block;
 	position:fixed;
-	bottom:25px;
+	bottom:45px;
 	left:25px;
-}
-
-#ue_logo
-{
-	display: inline-block;
-	position:absolute;
-	right:10px;
-	bottom:10px;
 }
